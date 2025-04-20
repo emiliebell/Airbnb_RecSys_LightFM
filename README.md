@@ -72,14 +72,15 @@ This recommender system aims to rank Airbnb listings for users based on historic
 ## 📁 Files
 
 - `main.ipynb`: Full pipeline script with all steps
-- `Reviews.csv`: User-item interactions
-- `final_listings.csv`: Listing metadata with location, type, etc.
+- **[Reviews.csv (Google Drive)](https://drive.google.com/file/d/1A-7ZIDiqLsvK57L79DhUkIdjRnjFACPs/view?usp=sharing)**: User-item interactions  
+- **[final_listings.csv (Google Drive)](https://drive.google.com/file/d/1JW3cq3ApbxtksrnrNuCNU7hi6XxU-kVg/view?usp=sharing)**: Listing metadata with location, type, etc.
+
 
 ---
 
 ## 🙋 Contribution
 
-This project was developed as part of a group coursework on recommender systems. I contributed:
+This project was originally developed as part of the **BT4222 Mining Web Data for Business Insights** course at **National University of Singapore**.I contributed:
 
 - Full pipeline implementation in LightFM
 - Custom feature function generator and evaluation metrics
